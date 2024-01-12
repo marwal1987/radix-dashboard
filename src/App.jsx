@@ -1,8 +1,8 @@
 import { Flex, Card } from "@radix-ui/themes";
 import { Top } from "./components/Top.jsx";
 import { Summary } from "./components/Summary.jsx";
-import { Overview } from "./components/Overview.jsx";
 import { RecentSales } from "./components/RecentSales.jsx";
+import { Overview } from "./components/Overview.jsx";
 import "./index.css";
 
 export default function App() {
